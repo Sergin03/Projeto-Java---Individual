@@ -1,0 +1,43 @@
+
+  {
+    
+  "frutas":{
+    
+        "banana":2,
+        "maça":1,
+        "pera":3,
+        "morango":4
+    
+  },
+
+
+  
+  "Churrasco" :{
+    
+      "frango":"temperado",
+      "carne":"picanha",
+      "pão":"de alho",
+       "linguiça": "de frango"
+    
+  },
+
+
+  "Futebol" :{
+  
+    "Neymar":"Alta Qualidade",
+    "Messi":"Maestria",
+    "Vinijr":"Promessa",
+    "André":"Melhor volante do mundo"
+     
+  
+  },
+  
+    "Vingadores" :{
+  
+    "Thanos":"Melhor Vilão",
+    "Homem-Aranha":"Melhor Super-herói",
+    "Thor":"Rei de Asgard",
+    "Hulk":"Esmaga"
+     
+  }
+  }
